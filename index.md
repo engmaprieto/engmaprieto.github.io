@@ -25,7 +25,6 @@ I enjoy taking ideas from concept → prototype → tested system. Whether it's 
 ###  Robotics Project Leadership
 - Co-founded and led a **Micromouse robotics team**
 - Designed navigation and control architectures
-- Mentored teammates in embedded systems and robotics fundamentals
 
 ###  Machine Learning for Biomechanics
 - Built predictive models for movement impairment detection
