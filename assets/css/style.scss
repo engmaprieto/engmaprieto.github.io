@@ -5,7 +5,7 @@
 @import "{{ site.theme }}";
 
 /* ========== PROFILE IMAGE (CIRCULAR) ========== */
-img.logo {
+.site-header img {
   border-radius: 50% !important;
   object-fit: cover;
   width: 160px !important;
