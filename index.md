@@ -6,7 +6,7 @@ Designing intelligent systems at the intersection of **robotics, embedded system
 
 ## About Me
 
-I am a Mechanical Engineer with a concentration in Mechatronics focused on building real-world intelligent systems that integrate hardware, software, and data-driven decision making.
+I am a Mechanical Engineering graduate from California Polytechnic State University, San Luis Obispo (Cal Poly SLO) with a concentration in Mechatronics, focused on building real-world intelligent systems that integrate hardware, software, and data-driven decision-making.
 
 My work sits at the intersection of:
 
