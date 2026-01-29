@@ -67,6 +67,7 @@ If you're working on robotics, AI, or intelligent systems and want to collaborat
 
 [LinkedIn](https://linkedin.com/in/marcusviniciusprieto)  
 [GitHub](https://github.com/engmaprieto)
-[Email](marcuscardosoprieto@gmail.com)
+
+marcuscardosoprieto@gmail.com
 
 ---
