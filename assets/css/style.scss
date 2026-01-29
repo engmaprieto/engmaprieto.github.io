@@ -1,0 +1,40 @@
+---
+---
+
+/* Import the Minimal theme's base styles FIRST */
+@import "{{ site.theme }}";
+
+/* ========== PROFILE IMAGE (CIRCULAR) ========== */
+img.logo {
+  border-radius: 50% !important;
+  object-fit: cover;
+  width: 160px !important;
+  height: 160px !important;
+}
+
+/* ========== GENERAL POLISH (still minimal) ========== */
+
+/* Improve body text readability */
+body {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Slightly nicer headings */
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+/* Clean link styling */
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Add a bit more spacing between sections */
+section {
+  margin-bottom: 20px;
+}
