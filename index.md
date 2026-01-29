@@ -65,6 +65,6 @@ Right now I am especially interested in:
 
 If you're working on robotics, AI, or intelligent systems and want to collaborate, feel free to reach out.
 
-marcuscardosoprieto@gmail.com
 [LinkedIn](https://linkedin.com/in/marcusviniciusprieto)  
 [GitHub](https://github.com/engmaprieto)
+marcuscardosoprieto@gmail.com
