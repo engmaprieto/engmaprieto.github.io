@@ -57,7 +57,7 @@ Right now I am especially interested in:
 ## Explore More
 
  [View My Projects](./projects)  
- [View My Resume](./resume)
+ [View My Resume](./assets/resume/RESUME.pdf)
 
 ---
 
