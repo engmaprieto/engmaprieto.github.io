@@ -1,4 +1,13 @@
 title: Marcus Prieto Portfolio
-logo: assets/images/headshot.png
+logo: /assets/images/headshot1.png
 description: Robotics & Mechatronics Engineer
+
 theme: jekyll-theme-minimal
+
+# Enables custom CSS
+plugins:
+  - jekyll-feed
+
+# Include custom styles
+include:
+  - assets/css/style.css
