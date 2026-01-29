@@ -1,10 +1,5 @@
 # Marcus Prieto
 ### Robotics & Mechatronics Engineer
-
-<p align="center">
-  <img src="assets/images/headshot.png" width="220" style="border-radius:50%;" />
-</p>
-
 Designing intelligent systems at the intersection of **robotics, embedded systems, and AI.**
 
 📧 marcuscardosoprieto@gmail.com  
