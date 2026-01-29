@@ -2,10 +2,6 @@
 ### Robotics & Mechatronics Engineer
 Designing intelligent systems at the intersection of **robotics, embedded systems, and AI.**
 
-📧 marcuscardosoprieto@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/marcusviniciusprieto)  
-💻 [GitHub](https://github.com/engmaprieto)
-
 ---
 
 ## About Me
@@ -26,21 +22,21 @@ I enjoy taking ideas from concept → prototype → tested system. Whether it's 
 
 ## Highlights
 
-### 🤖 Robotics Project Leadership
+###  Robotics Project Leadership
 - Co-founded and led a **Micromouse robotics team**
 - Designed navigation and control architectures
 - Mentored teammates in embedded systems and robotics fundamentals
 
-### 🧠 Machine Learning for Biomechanics
+###  Machine Learning for Biomechanics
 - Built predictive models for movement impairment detection
 - Achieved **100% classification accuracy** in impairment tests
 - Processed datasets ranging from 30 minutes to 24 hours
 
-### ⚡ High-Performance Embedded Systems
+###  High-Performance Embedded Systems
 - Optimized line-following robot lap time by **67% (60s → 20s)**
 - Developed firmware for real-time sensing and control
 
-### 🌬️ Engineering Design Impact
+###  Engineering Design Impact
 - Designed modular boundary layer rakes
 - Reduced cost from **$500 → $20 per unit**
 - Validated performance in wind tunnel experiments
@@ -60,8 +56,8 @@ Right now I am especially interested in:
 
 ## Explore More
 
-👉 [View My Projects](./projects)  
-👉 [View My Resume](./resume)
+ [View My Projects](./projects)  
+ [View My Resume](./resume)
 
 ---
 
@@ -69,4 +65,6 @@ Right now I am especially interested in:
 
 If you're working on robotics, AI, or intelligent systems and want to collaborate, feel free to reach out.
 
-📧 marcuscardosoprieto@gmail.com
+ marcuscardosoprieto@gmail.com
+ [LinkedIn](https://linkedin.com/in/marcusviniciusprieto)  
+ [GitHub](https://github.com/engmaprieto)
