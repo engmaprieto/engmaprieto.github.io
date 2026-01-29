@@ -3,7 +3,7 @@
 
 Designing intelligent systems at the intersection of **robotics, embedded systems, and AI.**
 
-📧 maprieto@calpoly.edu  
+📧 marcuscardosoprieto@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/marcusviniciusprieto)  
 💻 [GitHub](https://github.com/engmaprieto)
 
@@ -70,4 +70,4 @@ Right now I am especially interested in:
 
 If you're working on robotics, AI, or intelligent systems and want to collaborate, feel free to reach out.
 
-📧 maprieto@calpoly.edu
+📧 marcuscardosoprieto@gmail.com
